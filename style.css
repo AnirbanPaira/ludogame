@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Libre Baskerville", serif;
+  font-family: "Macondo", cursive;
+  font-family: "Mouse Memoirs", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  width: 100%;
+  height: 100vh;
+  background: greenyellow;
+}
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+img {
+  height: 18rem;
+  width: 20rem;
+  object-fit: contain;
+}
+.btn {
+  padding: 8px;
+}
+h1 {
+  margin: 30px;
+  text-shadow: 5px 5px white;
+  font-weight: 800;
+  font-size: 6rem;
+}
+p {
+  font-size: 2rem;
+  text-shadow: 1px 1px rgb(0, 128, 255);
+  color: red;
+}
+.btn {
+  padding: 10px;
+  background-color: crimson;
+  border-radius: 10px;
+}
+button {
+  padding: 10px;
+  cursor: pointer;
+}
+img {
+  width: 75%;
+}
